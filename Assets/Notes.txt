@@ -1,0 +1,2 @@
+Regarding Scene 2:
+I have only made a visual of Sphere and Particle effects for scene 2. But Scene 1 is implemented exactly as described!
